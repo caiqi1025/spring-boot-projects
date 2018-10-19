@@ -1,0 +1,10 @@
+# 服务器端口配置
+server:
+  port: 8088
+
+
+person:
+  name: 蔡琦
+  set: 男
+  age: 30
+  email: caiqi@163.com
